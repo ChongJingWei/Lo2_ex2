@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lo2_ex2</string>
+    <string name="form">Registration form </string>
+    <string name="welcome">Welcome to Adventure Learning Club!</string>
+    <string name="fullname">Full Name: </string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="gender">Gender: </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="studentId">Student ID: </string>
+    <string name="studId">Student ID</string>
+    <string name="school">School: </string>
+    <string name="schoolname">School name</string>
+    <string name="email">E-mail: </string>
+    <string name="emailadd">E-mail address</string>
+    <string name="phone">Phone: </string>
+    <string name="phonenum">Phone Number</string>
+    <string name="register">Register: </string>
+</resources>
